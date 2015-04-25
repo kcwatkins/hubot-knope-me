@@ -1,5 +1,5 @@
 # Description
-#   leslie knope for president
+#   Returns a Leslie Knope gif for your viewing pleasure
 #
 # Commands:
 #   hubot knope me
